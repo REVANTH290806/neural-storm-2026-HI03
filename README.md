@@ -164,3 +164,20 @@ backend/tests/          API, service, reliability and privacy tests
 samples/                Original sample PDF; scripts/ builds it and runs the smoke test
 docs/                   Architecture, deployment note, accessibility checklist, screenshots
 ```
+
+---
+
+## Team Details
+
+- Participation Type: Individual
+- Participant Name: Revanth Panvi
+- Team Size: 1
+
+## AI Development Tools Disclosure
+
+The following AI development tool was used during the development of this project:
+
+- **Claude (Anthropic):** Used as an AI-assisted development tool.
+
+AI assistance was used during the project development process. The resulting implementation was integrated into the project by the participant.
+
